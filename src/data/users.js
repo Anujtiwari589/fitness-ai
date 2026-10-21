@@ -1,0 +1,68 @@
+const users = [
+  {
+    id: 1,
+    name: "Rahul",
+    goal: "weight_gain",
+    workouts: 9,
+    xp: 120,
+    streak: 6,
+  },
+  {
+    id: 2,
+    name: "Priya",
+    goal: "weight_loss",
+    workouts: 12,
+    xp: 150,
+    streak: 5,
+  },
+  {
+    id: 3,
+    name: "Aman",
+    goal: "weight_gain",
+    workouts: 6,
+    xp: 80,
+    streak: 3,
+  },
+  {
+    id: 4,
+    name: "Neha",
+    goal: "running",
+    workouts: 11,
+    xp: 140,
+    streak: 7,
+  },
+  {
+    id: 5,
+    name: "Riya",
+    goal: "flexibility",
+    workouts: 8,
+    xp: 100,
+    streak: 4,
+  },
+  {
+    id: 6,
+    name: "Vikash",
+    goal: "weight_gain",
+    workouts: 10,
+    xp: 135,
+    streak: 7,
+  },
+  {
+    id: 7,
+    name: "Karan",
+    goal: "running",
+    workouts: 7,
+    xp: 95,
+    streak: 3,
+  },
+  {
+    id: 8,
+    name: "Sneha",
+    goal: "weight_loss",
+    workouts: 9,
+    xp: 110,
+    streak: 4,
+  },
+];
+
+export default users;
